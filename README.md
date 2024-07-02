@@ -5,7 +5,7 @@
 
 
 <!-- 2. プロフィールや連絡先を変更 -->
-## <img src="https://x.gd/2gsBj" width="75"> My Profile
+## <img src="https://x.gd/2gsBj" width="50"> My Profile
 - 🧑‍💻 I'm a game client engineer.
 - 🌱 I’m currently learning C# and Unity!
 - 📫 How to reach me: [Twitter - @GameDevEgg](https://x.com/GameDevEgg)
