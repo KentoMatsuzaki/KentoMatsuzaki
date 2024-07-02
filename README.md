@@ -6,8 +6,8 @@
 
 <!-- 2. プロフィールや連絡先を変更 -->
 ## 🟢 Profile
-🔹 I'm a game client engineer.
-🔸 I’m currently learning C# and Unity!
+-🔹 I'm a game client engineer.
+-🔸 I’m currently learning C# and Unity!
 <br>
 
 
