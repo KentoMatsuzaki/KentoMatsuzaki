@@ -6,8 +6,8 @@
 
 <!-- 2. プロフィールや連絡先を変更 -->
 ## 🟢 Profile
-- 🔹 I'm a game client engineer.
-- 🔸 I’m currently learning C# and Unity!
+🔹 I'm a game client engineer.
+🔸 I’m currently learning C# and Unity!
 <br>
 
 
@@ -21,7 +21,7 @@
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
-## 🔵 Activities
+## 🟠 Activities
 <div align="left"> 
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=kentoMatsuzaki&theme=vue-dark&layout=compact" />
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KentoMatsuzaki&theme=vue-dark&layout=compact" />
